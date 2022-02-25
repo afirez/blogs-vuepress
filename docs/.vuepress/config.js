@@ -27,8 +27,8 @@ module.exports = {
               {
                   text: "Markdown",
                   collapsible: true,
-                //   chilren: getMdByDir("tools/markdown", "tools")
-                  chilren: ["/tools/markdown/markdown_grammar.md"]
+                //   children: getMdByDir("tools/markdown", "tools")
+                  children: ["/tools/markdown/markdown_grammar.md"]
               }
           ]
         },
